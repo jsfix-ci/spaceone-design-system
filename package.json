@@ -79,7 +79,7 @@
     "lodash": "^4.17.15",
     "lottie-web": "^5.5.9",
     "marked": "^4.0.10",
-    "uuid": "^8.3.0",
+    "uuid": "^9.0.0",
     "v-click-outside": "^3.0.1",
     "v-tooltip": "^2.0.2",
     "velocity-animate": "^1.5.2",
